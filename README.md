@@ -1,1 +1,1 @@
-# merge-conftit
+# merge-conflits
